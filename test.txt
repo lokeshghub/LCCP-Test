@@ -1,3 +1,28 @@
 Hello World!
 
 Happy New Year
+
+
+
+Scope 
+analysis and  planning  
+Determine project  components  to be included  ( eg UI,  TM ,  testscripts ,  test  execution , reporting, 4G module, 5G module,  Broadcomm platform,  Intel  Platform  )
+Determine  key working  areas to be  covered  ( eg  code  reviews,  build, packaging , release,  integration etc ) 
+Determine key  stakeholders :  who/what   parties  will be involved  impacted 
+Determine  roles  for each  stakeholder 
+Determine  requirements for  each  stakeholder
+Determine  access control  requirements ( who has  access to what,  who  needs  what ,  who does what )  
+Determine  target  tool set  :    all tool chains  to be  limited to the   toolset 
+Outline  Key project challenges  (  that devOps  is  expected to  resolve ) 
+Outline overall key project  requirements for  devOps 
+Determine dependencies  between the  project  requirements 
+determine  Priorities  for   project  requirements . 
+Determine  key  gaps  in  devOps for the team 
+Outline a  roadmap  for the  devOps. 
+Implementation scope  
+Determine  key workflows  to be  implemented  
+Determine   required infrastructure 
+Determine required tool sets
+Attention : 
+
+
